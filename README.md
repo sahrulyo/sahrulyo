@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahrulyo
 - 👀 I’m interested in frondend website development
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Vue Js
 - 💞️ I’m looking to collaborate on this session
 - 📫 How to reach me https://sahrulyoyo.website
 
